@@ -1,7 +1,7 @@
 {
   "name": "Example Name #1",
   "description": "An NFT test file for godot engine",
-  "image": "http://localhost:8000/body.png",
+  "image": "https://192.168.0.104/body.png",
   "edition": 1,
   "attributes": [
     {
